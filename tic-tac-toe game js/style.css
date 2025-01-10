@@ -35,7 +35,6 @@ body {
     font-size: 8vmin;
     color: #b0413e;
     background-color: #ffffc7;
-    display: flex;
     flex-direction: column;
 }
 
